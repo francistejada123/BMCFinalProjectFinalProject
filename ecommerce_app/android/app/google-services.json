@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706542790053",
+    "project_id": "tejada-ecommerce-app",
+    "storage_bucket": "tejada-ecommerce-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706542790053:android:86ef4ebec851c26c81b44c",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-BcEBRABxHsm6utufHr1WhU_qmbhFP3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
